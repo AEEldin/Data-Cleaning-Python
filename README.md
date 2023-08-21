@@ -64,7 +64,7 @@ However, in other applications, such outliers may significantly impact the overa
 
 
 ## Data Cleaning Using Python
-Python provides several libraries that can help data professionals clean and transform data. Pandas and NumPy are two of the commonly used libraries that provide wide range of methods and functions to deal with handling missing values, detecting and eliminating outliers, and translating data from one format to another.
+Python provides several libraries that can help data professionals clean and transform data. Pandas and NumPy are two of the commonly used libraries that provide a wide range of methods and functions to handle missing values, detect and eliminate outliers, and translate data from one format to another.
 
 + [Pandas](https://pandas.pydata.org)
 + [NumPy](https://numpy.org)
@@ -74,6 +74,7 @@ dealing with missing values, eliminating outliers, and translating data into a m
 
 In this repository, we will have a set of educational tutorials on using Python's Pandas and NumPy libraries to read and clean data. The tutorials covered in this repository are:
 
++ [Read CSV files](https://github.com/AEEldin/Pandas-read_CSV)
 + Locating and Handling Missing Data
 + Handling Duplicates
 + Detecting and Handling Outliers
