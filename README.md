@@ -74,9 +74,9 @@ dealing with missing values, eliminating outliers, and translating data into a m
 
 In this repository, we will have a set of educational tutorials on using Python's Pandas and NumPy libraries to read and clean data. The tutorials covered in this repository are:
 
-+ [Read CSV files](https://github.com/AEEldin/Pandas-read_CSV)
-+ Locating and Handling Missing Data
-+ Handling Duplicates
++ [Reading CSV files](https://github.com/AEEldin/Pandas-read_CSV)
++ [Handling Missing Data points and Duplicate records]()
++ Handling Mistakes and Format Problems
 + Detecting and Handling Outliers
 + [Visualize Data to detect Data Problems](https://github.com/AEEldin/Data-Visualization-Python)
 
