@@ -76,7 +76,7 @@ In this repository, we will have a set of educational tutorials on using Python'
 
 + [Reading CSV files](https://github.com/AEEldin/Pandas-read_CSV)
 + [Handling Missing Data points and Duplicate records](https://github.com/AEEldin/Missing-and-Duplicate-DataPoints)
-+ Handling Mistakes and Format Problems
++ [Handling Mistakes and Format Problems](https://github.com/AEEldin/Handling-Mistakes-and-Format-Problems)
 + Detecting and Handling Outliers
 + [Visualize Data to detect Data Problems](https://github.com/AEEldin/Data-Visualization-Python)
 
